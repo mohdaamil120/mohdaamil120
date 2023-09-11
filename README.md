@@ -1,7 +1,5 @@
 ### Hi there, I'm Mohd Aamil 👋
 
-LinkedIn => https://www.linkedin.com/in/mohd-aamil/
-
 
 ## About Me
 
