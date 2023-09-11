@@ -1,6 +1,6 @@
 ### Hi there, I m Mohd Aamil 👋
 
-##LinkdIn => https://www.linkedin.com/in/mohd-aamil/
+LinkedIn => https://www.linkedin.com/in/mohd-aamil/
 
 <!--
 **mohdaamil120/mohdaamil120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
