@@ -19,6 +19,18 @@ Here are some of the skills and technologies I'm proficient in:
 * HTML, CSS, and JS
 * React.js, and Chakra UI
 
+## Projects
+
+1. Travello
+     * https://sensational-starship-6bc092.netlify.app/
+     * Description:- Collaborative on a Project with a team of 4 members in a span of 5 days. Travel website with user side and Admin Side. Users can book any destination and make 
+       payments as well. Technologies used HTML, CSS, and JS. 
+
+2. Norway Tour
+     * https://iridescent-mooncake-f907eb.netlify.app/
+     * Description:- Solo Project in a span of 5 days. It's a winter travel website with a user side. Users can book any destination in Norway. Technologies used React, etc.
+
+## GitHub Stats
 
 ## Contact
 
