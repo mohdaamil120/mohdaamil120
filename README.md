@@ -6,6 +6,7 @@
 I'm Mohd Aamil, a passionate software developer with expertise in Web development. I love building cool projects and contributing to open-source. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-aamil/).
 
 - 🔭 I’m currently working on My Portfolio
+- 🌍 Based in Shahjahanpur, India
 - 🌱 I’m constantly Learning and Exploring new things in Web Development 
 - 👯 I’m open to collaboration and always excited to connect with team members
 - 🤔 I’m looking for help with great skills
@@ -37,6 +38,10 @@ Here are some of the skills and technologies I'm proficient in:
 ## Contact
 
 - Email: mohdaamil120@gmail.com
+
+## Address
+
+👋 Hey there, I'm Mohd Aamil, a dedicated software engineer based in the vibrant city of Shahjahanpur, India. With a fervent passion for all things code, I'm on a continuous journey of exploration and innovation. My GitHub is a canvas where I create, collaborate, and contribute to open-source projects that aim to make a difference. Currently, I'm sharpening my skills in MERN, and I'm always eager to learn and grow. Feel free to drop me a line at mohdaamil120@gmail.com if you'd like to connect, collaborate, or simply chat about the exciting world of software development. Explore my repositories below, and let's build something amazing together! 🚀
 
 
 <!--
