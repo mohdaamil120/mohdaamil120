@@ -6,13 +6,13 @@
 I'm Mohd Aamil, a passionate software developer with expertise in Web development. I love building cool projects and contributing to open-source. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-aamil/).
 
 - 🔭 I’m currently working on My Portfolio
-- 🌍 Based in Shahjahanpur, India
 - 🌱 I’m constantly Learning and Exploring new things in Web Development 
 - 👯 I’m open to collaboration and always excited to connect with team members
 - 🤔 I’m looking for help with great skills
 - 💬 Ask me about Web Development
 - 📫 How to reach me: mohdaamil120@gmail.com or https://www.linkedin.com/in/mohd-aamil/. 
-- ⚡ Fun fact: I'm a bachelor's graduate in Science. 
+- ⚡ Fun fact: I'm a bachelor's graduate in Science.
+- 🌍 Based in Shahjahanpur, India
 
 ## Skills and Technologies
 
