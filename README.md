@@ -14,6 +14,10 @@ I'm Mohd Aamil, a passionate software developer with expertise in Web developmen
 - ⚡ Fun fact: I'm a bachelor's graduate in Science.
 - 🌍 Based in Shahjahanpur, India
 
+## Profile
+
+Portfolio- https://mohdaamil120.github.io/
+
 ## Skills and Technologies
 
 Here are some of the skills and technologies I'm proficient in:
