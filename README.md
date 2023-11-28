@@ -16,7 +16,8 @@ I'm Mohd Aamil, a passionate software developer with expertise in Web developmen
 
 ## Profile
 
-Portfolio- https://mohdaamil120.github.io/
+- Portfolio- https://mohdaamil120.github.io/
+- Email: mohdaamil120@gmail.com
 
 ## Skills and Technologies
 
