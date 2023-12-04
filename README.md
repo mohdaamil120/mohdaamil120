@@ -10,7 +10,7 @@ I'm Mohd Aamil, a passionate software developer with expertise in Web developmen
 - 👯 I’m open to collaboration and always excited to connect with team members
 - 🤔 I’m looking for help with great skills
 - 💬 Ask me about Web Development
-- 📫 How to reach me: mohdaamil120@gmail.com or https://www.linkedin.com/in/mohd-aamil/. 
+- 📫 How to reach me: mohdaamil120@gmail.com  
 - ⚡ Fun fact: I'm a bachelor's graduate in Science.
 - 🌍 Based in Shahjahanpur, India
 
