@@ -39,9 +39,9 @@ Here are some of the skills and technologies I'm proficient in:
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github-stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohdaamil120&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github-stats"/>
 
-## Contact
+## Contacts
 
 - Email: mohdaamil120@gmail.com
 
