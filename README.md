@@ -14,8 +14,12 @@
 A dedicated software engineer With a fervent passion for all things code, I'm on a continuous journey of exploration and innovation. My GitHub is a canvas where I create, collaborate, and contribute to open-source projects that aim to make a difference. Currently, I'm skilled in MERN, and I'm always eager to learn and grow. Feel free to drop me a line at mohdaamil120@gmail.com if you'd like to connect, collaborate, or simply chat about the exciting world of software development. Explore my repositories below, and let's build something amazing together! 🚀
 <br/>
 <br/>
-<img alt="Coding" align="right" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
 
+![Coding](https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif)
+
+<!--
+<img alt="Coding" align="right" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdaamil120&label=Profile%20views&color=0e75b6&style=flat" alt="mohdaamil120" /> </p>
 
 - 🔭 I’m currently working on **Notes App (MERN)**
